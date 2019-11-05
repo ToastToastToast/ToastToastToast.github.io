@@ -1,0 +1,26 @@
+body {
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
+}
+
+h1 {
+  color: orange;
+  padding: 200px 150px 200px 360px;
+
+}
+
+h3{
+  position: relative;
+  right: 10px;
+  bottom: 170px;
+  padding: 0px 20px 0px 500px;
+}
+
+a {
+color: #D73CFD;
+text-decoration: none;
+
+}

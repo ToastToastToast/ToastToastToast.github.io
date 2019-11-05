@@ -8,4 +8,49 @@ body {
 
 h1 {
   padding: 20px 0px 10px 0px;
+  text-align:center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#e01{
+  padding:100px 0px 0px 0px;
+  postion:relative;
+}
+
+h3{
+  padding:0px 0px 0px 0px;
+  font-family:"Bookman", URW Bookman L, serif
+  position:absolute;
+
+}
+
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: orange;
+}
+
+/* Bottom left text */
+.text {
+  color:orange;
+  position: absolute;
+  font-size:50px;
+  bottom: 300px;
+  left: 250px;
+}
+
+#e02{
+  color:orange;
+}
+
+#e03{
+  position:relative;
+  font-family: Georgia, serif;
+  text-align:center;
+}
+#e04{
+  position:absolute;
+  text-align:center;
+  padding:0px 0px 0px 500px;
 }
