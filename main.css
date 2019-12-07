@@ -9,7 +9,15 @@ body {
 h1 {
   padding: 20px 0px 10px 0px;
   text-align:center;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  color:MidnightBlue;
+  font-size:50px;
+}
+
+h2{
+  color:navy;
+  font-family: 'Sulphur Point', sans-serif;
+  font-size:30px;
 }
 
 #e01{
@@ -18,10 +26,15 @@ h1 {
 }
 
 h3{
-  padding:0px 0px 0px 0px;
   font-family:"Bookman", URW Bookman L, serif
   position:absolute;
+  color:SlateBlue;
+  font-size:20px;
 
+}
+h4{
+  color:SlateBlue;
+  font-size:25px;
 }
 
 /* Container holding the image and the text */
@@ -42,6 +55,7 @@ h3{
 
 #e02{
   color:orange;
+  font-size:50px;
 }
 
 #e03{
@@ -53,4 +67,16 @@ h3{
   position:absolute;
   text-align:center;
   padding:0px 0px 0px 500px;
+}
+#e05{
+  position:relative;
+  font-size:60px;
+
+  }
+  p{
+    color:Darkblue;
+  }
+img{
+  border-radius:15%;
+
 }
